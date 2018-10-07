@@ -7,6 +7,8 @@ This repository will contain simple projects geared towards learning JavaScript!
 I'll take the following steps, as they seem to be popular in many tutorials around the web
 
 - Variables & constants
+- Data Types
 - Control flow
 - Functions & methods
 - Classes
+- Prototypes & Inheritance
