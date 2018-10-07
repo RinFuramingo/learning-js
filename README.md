@@ -12,3 +12,7 @@ I'll take the following steps, as they seem to be popular in many tutorials arou
 - Functions & methods
 - Classes
 - Prototypes & Inheritance
+
+## resources
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
