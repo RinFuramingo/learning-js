@@ -18,3 +18,4 @@ I'll take the following steps, as they seem to be popular in many tutorials arou
 ## resources
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [Wes Bos course](https://wesbos.com/javascript30/)
